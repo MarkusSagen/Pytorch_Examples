@@ -5,6 +5,12 @@
 - [Transfer Learning and DataLoader](https://colab.research.google.com/github/sotte/pytorch_tutorial/blob/master/notebooks/transfer_learning.ipynb#scrollTo=_46FKzWA0ziJ)
 - [RNN from Scratch](https://colab.research.google.com/github/sotte/pytorch_tutorial/blob/master/notebooks/rnn_from_scratch.ipynb)
    
+  
+### Quick Summary
+- [NLP summary](https://www.youtube.com/watch?v=gHPV_mQKWmg) - [Github](https://github.com/scoutbee/pytorch-nlp-notebooks)
+- [NLP Comedy Project](https://www.youtube.com/watch?v=xvqsFTUsOmc) - [Github](https://github.com/adashofdata/nlp-in...)
+- [Visualize Word2Vec](https://www.youtube.com/watch?v=6zm9NC9uRkk&t=416s)  
+  
 ### fast.ai
 - [Practival Deep Learning - Latest](https://course.fast.ai/)
 - [Practical DL - Part 1](http://course18.fast.ai/index.html)
