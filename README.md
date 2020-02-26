@@ -23,8 +23,9 @@
   
 
 ### Training
-- [Floydhub.com](https://www.floydhub.com/welcome) - [Example](https://youtu.be/Bgwujw-yom8?t=370)
-
+- [Floydhub.com](https://www.floydhub.com) - [Example](https://youtu.be/Bgwujw-yom8?t=370)
+- [AWS](TODO) 
+  
   
 ### Web
 - [Deploy]() - Deploy methods | Flask vs FastAPI (Extends Starlette (GraphQL, Async))
