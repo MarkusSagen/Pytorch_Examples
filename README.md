@@ -21,6 +21,10 @@
 - [BoTorch](https://botorch.org/) - Bayesian Optimization 
 - [Torchbearer](https://github.com/pytorch/translate) - Model fitting and advanced visualization 
   
+
+### Training
+- [Floydhub.com](https://www.floydhub.com/welcome) - [Example](https://youtu.be/Bgwujw-yom8?t=370)
+
   
 ### Web
 - [Deploy]() - Deploy methods | Flask vs FastAPI (Extends Starlette (GraphQL, Async))
